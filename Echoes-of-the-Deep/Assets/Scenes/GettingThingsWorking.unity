@@ -625,7 +625,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveLimiter: 0.7
-  runSpeed: 20
+  runSpeed: 6.5
 --- !u!212 &1161712317
 SpriteRenderer:
   m_ObjectHideFlags: 0
